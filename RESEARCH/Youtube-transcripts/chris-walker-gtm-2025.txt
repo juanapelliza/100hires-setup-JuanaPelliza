@@ -1,0 +1,1536 @@
+all right Chris thank you so much for
+coming out here it's super exciting to
+have you I've been following or actually
+a bunch of us have been actually
+following your B2B Revenue vitals
+podcast for a while and listening and
+inspiring actually a lot of what warmley
+is doing in go to marketland today
+you've kind of done it all from
+engineering product management all the
+way to marketing now helping well we're
+hard but helping marketing and go to
+market teams change kind of the way that
+marketing has been done and now you're
+even going bigger picture helping the
+CEO as sance team off teams really think
+about how to run business um and get to
+the bottom line of pipeline tell us you
+want to I know you had some uh topics in
+mind so if you want to jump in yeah
+what's up everyone glad to be here I
+couldn't make it on Tuesday CU we had a
+little bit of a snowstorm but good to
+hear good to be here and not be virtual
+like I think in person is super cool I'm
+going to set the table for 10 or 15
+minutes about the big picture that I'm
+seeing and then we'll do some questions
+and then love the audience questions and
+when we get to the audience questions we
+can take it in whatever Direction Career
+Development marketing Ops like anything
+that you want to to know I don't want to
+feel anyone restricted on the question
+side I got some notes here so I'm just
+going to reference a couple things to
+make sure I don't miss anything but the
+take-home point is that there is a
+massive transformation happening in how
+software and technology companies are
+built and how they're valued how they
+should go to market and it creates a lot
+of Downstream impacts on how we think
+about our strategy and things like that
+that the first point is that I truly
+believe what I'm about to say and most
+people probably don't is that a company
+of your size has a distinct advantage
+over a hundred million doll company
+right now those companies have ingrained
+processes it's difficult to change a lot
+of their cap tables are underwater so
+now like basically all the stock is like
+not worth anything it makes it really
+difficult and meanwhile here we are
+we're flexible we don't have a lot of
+constraints we can move more quickly we
+can build differently we can think about
+how we integrate AI in our product as a
+native functionality not as a feature or
+a bell and a whistle like a hundred
+million doll company does I think that
+just thinking about how that can work is
+a huge thing the next point and I see
+this in the big hundred million dollar
+companies and I've actually seen this
+for five years and I tried to tell them
+about it and they didn't do anything
+about it and not they paying the price
+big companies do not help their
+customers operationalize the product in
+a way that makes successful think about
+6
+cents everybody buys it nobody [ __ ]
+can use it it's not connected into it's
+not connected in demand Bas is the same
+way not just shitty on 6 cense they
+don't help their customers figure out
+how to connect it into Salesforce the
+reporting is super low level uh they
+don't help Executives Drive
+organizational change most bdrs don't
+even use the product right so their
+companies are paying $200,000 a year for
+this product and they run $10,000 and
+display ads out of it and do some
+reporting no wonder everybody is
+churning and so what that means for us
+moving forward is that we need to take
+accountability not just in selling a
+product but making our customer
+successful with the goal around that
+they have an actual business result not
+a tool or a utility but actually getting
+what they need so and that comes down to
+customer success it comes down to
+implementation account management
+potentially other things that we maybe
+haven't explored yet I think a lot of
+companies should consider having a paid
+profal Services part of their company
+that make their customers successful and
+then through that process you get back
+the insights around what product should
+we actually build what product do our
+customers actually need instead of what
+they tell us they need which is usually
+wrong it's true and I'm in there with a
+lot of companies and they tell you what
+they need right so I'm on more of the
+analytics and attribution space at this
+point and they're like yeah we just want
+we just need our power bi dashboard and
+then we'll hook up chat gbt to it or we
+just need to buy another marketing mix
+modeling or multi-touch attribution tool
+and I've watched a 100 companies do that
+and 100 companies fail literally a 0%
+success rate and so what C what
+companies think they need versus what
+they actually need is very different and
+the way that you figure it out is being
+in there with the work with them with a
+lot of companies solving the problem
+they only see the problem from their
+perspective we have the opportunity to
+see the problem at a 100 companies
+perspective when we work with a lot of
+companies at once which gives us an
+entirely different view of the problem
+and and what the market needs
+needs I think that the evolution of AI
+is [ __ ] incredible not just for
+product but for everything if you
+haven't taken the two to six hours like
+I did six months ago and have clawed on
+one side of the screen and vers on the
+other side of the screen and I'm not a
+Dev and I like rebuilt our whole product
+that took us N9 months and 3 hours and
+just to see it and understand the
+capabilities at that level and then you
+can see how it applies to the how we
+collect our invoices how we automate our
+outbound how we you know accelerate
+product management and product
+requirements documents how we accelerate
+content creation how we build a website
+or a landing page in 30 minutes instead
+of six weeks when it has to go from
+someone writes the copy and then we hand
+it off to do a wireframe and then we
+give feedback and then we then it goes
+to design and then we give feedback and
+then we do more design and then we give
+feedback and then we do development then
+we give more feedback and all of a
+sudden it's taking us8 weeks to build a
+web page now that whole feedback cycle
+gets impressed the person RS to copy you
+can get it 90% of the way done and then
+design and thatb finish it off and
+having that speed is something that big
+companies won't do I think it's a huge
+Advantage the competitive landscape you
+all play in a incredibly competitive
+space I know a lot of people like Adam
+Robinson I think he talked on Tuesday
+plays in a very competitive space he was
+like the quote unquote first to Market
+with that product and now he has 37
+competitors including Zoom info which is
+a Goliath the competitive landscape is
+totally changing the the copy catting is
+not just a five person company copying
+your product it's the billion dooll
+company copying your feature and putting
+it into their platform so it's coming
+from both angles right now which is
+going to drive commoditization of
+features and products and require us to
+think about how we add additional value
+to our customer outside of just the
+technology which has been it's all been
+Tech up until this point now I talked
+about Professional Services making the
+customer successful being smarter around
+how we innovate in the product being
+smarter around how we use AI to be
+faster more agile learn faster on the on
+the copy catting side this is more like
+Super C level strategy but I think that
+you all should think about playing the
+game differently than you have before
+when it comes to how you think about
+your product road map how you Market
+your product I know companies that are
+at yours Revenue size that don't even
+have a website
+anymore
+intentionally and so complete self modes
+intentionally so that other people don't
+see what they're doing and I'm not going
+to share my own confidential strategies
+but I've been thinking about that a lot
+too and I'm adjusting in certain ways
+with my new business which is entirely
+different than how I went with my last
+business my last business was basically
+tell everyone what you're doing and then
+if they you tell them what you're doing
+then they'll trust you and then if they
+trust you they'll buy from you I I was
+the biggest beneficiary of that strategy
+and now no longer believe in it because
+of how the world has changed the
+commoditization of product is going to
+put a lot of pressure on on SAS gross
+margin that's going to put price
+pressure and then with price pressure
+comes gross margin pressure and that's
+going to put more more pressure on the
+efficiency of the business particular
+you go to market in a company like this
+go to market expenses are going to be
+50% of Revenue maybe more at your size
+and scale so the the majority of the
+expenses like product development and
+other sorts but we think about customer
+success account management operations
+SDR sales marketing it's like most of
+the probably most the counting the cost
+that we have in this business and it's
+going to force us to operate much
+differently what you can get away with
+at 3 million ARR you will not get away
+with at 20 million it will break and I
+go in and help companies fix that
+problem at 20 to 50 million and it slows
+them down for one to two years because
+they didn't they didn't have the
+foresight to see how that was going to
+happen then all of a sudden their C
+paybacks at five years and their nrr is
+no longer 110% or
+120% and basically they're not they're
+stuck they're not growing anymore
+potentially going backwards burning
+money and so I think it gives us an
+advantage to think about that now so
+that we can be efficient maintain a c
+payback period even if we grow a little
+slower I think that in the long run if
+you think about the long game it's a
+much better
+strategy okay last point and then Karan
+you can take over as a last point I I
+believe the biggest issues in go to
+market today are twofold number one is
+that marketing is this big big bucket of
+stuff that has competing objectives
+between long-term and short-term and
+tactical and strategic that make it very
+difficult to do the job I think that
+Smart Companies will break marketing
+into two functions and you have strategy
+which includes product marketing analyst
+relations thought leadership customer
+insights competitive intelligence sales
+enablement that type of stuff and then
+you'll have a different function called
+pipeline creation and that side is math
+and science a lot of what your product
+facilitates so that would include
+traditionally demand gen a combination
+of marketing Ops and like SDR Ops I
+think those two functions should just
+come together and be the pipeline
+team advertising content creation some
+things like that and the second part is
+that the companies think that revops was
+the solution to all their problems and
+it's clearly not and that they're asking
+people that are Salesforce admins and
+Technology implementers to be a
+strategic sea level executive tell their
+CMO and cro what to do and you're asking
+people that don't have the skills to do
+something that they clearly can't do
+thinking that they can and so a lot of
+companies are hoping that revops is
+going to solve their problem of a
+four-year T payback and revops most of
+the people can't even read a p&l how are
+they going to fix your lower your C
+payback by two years so i' encourage
+your company to think about those two
+things is what I'm seeing as the biggest
+issues that companies run into when they
+hit 10 20 30 million in AR and I think
+think that the traditional way that
+companies organize around the
+Departments of marketing and sdrs and
+whether sdrs Goin sales or marketing is
+a relevant and then they force whether
+it's like it has to be R off centralized
+under Finance or a cro and if we do that
+then we can't have marketing
+operations and thinking about customer
+success and account management is two
+different things and whether we need
+both of them or how that could be
+different I think that the traditional
+way that companies organize should be
+challenged completely you can't do that
+at 100 million doll company it's too big
+it's like steer you're trying to steer a
+cruise ship we're we're a speedboat so
+we can actually make changes like that
+and be able to adapt to how things are
+working and some of the core issues that
+companies face as they grow this stage
+is hard to get to like true product
+Market fit and scale specifically this
+year that's coming up for you but then
+beyond that the challenges are different
+it's not about figuring out how do we
+get these customers it's how do we you
+know improve our nrr from 103% to 111%
+so we get extra 8% growth for nothing
+instead of a lot of companies that get
+to 10 million AR and have an nrr of 93%
+and then they're playing behind the
+eightball every single year that at this
+point you can get away with having a
+four or five year C payback period you
+don't have lot of costs that that will
+effectively destroy your growth in a
+couple of years from now if that's I
+don't know what your C payback is was
+just to be clear but just thinking about
+those things the right now it's do
+whatever you can to get to 10 million in
+product Market fit with happy customers
+with a product that works as
+differentiated and then after that you
+have to think about the scale phase
+which is a whole different game and hope
+that sets some context Karina will ask
+some questions about sort of I think
+what what's relevant to you all right
+now and then I would invite the open Q&A
+is my favorite part so I'd invite that
+afterwards yeah thank you so much
+actually a lot of what you said is super
+relevant to I don't know if Max Prep do
+but those are G that's just what I'm
+seeing across a lot of companies that's
+what we're experiencing people think
+their companies different than others
+but really almost every company has the
+same issues stage makes it a little bit
+different but the broad Strokes are
+generally the same yeah I mean we're
+definitely trying to yesterday we're
+just talking about company culture
+trying to move fast to to out compete
+like all these Giants to six sents we're
+playing their space right competitor all
+the good market like we've been Max the
+whole team hasn't really good on
+following your old strategy which is all
+the LinkedIn organic content and then
+Max toast exactly what we're doing in
+company and everyone's coughing
+right so they catch up really fast we
+have we've launched the website intent
+real time contact level trying to
+orchestrate that automate that then
+there's five other orchestration
+companies that doing the same thing and
+so now I was like should we be sharing
+everything we're doing maybe we
+shouldn't I'm curious of what what is
+the I know part of it you said it's like
+your secret strategy but what part can
+you share to us of what do you see
+working that isn't the just blast out
+the organic content and get word of
+mouth and all that stuff yeah thought
+very hard about like my strategy around
+it it's that's really business strategy
+it's not marketing strategy but it's
+just the like what you give away is part
+of it when you look at what's working
+broadly honestly it's having customers
+that love your product that tell other
+people about how much they love it and
+then amplifying those things like as
+simple as it gets and then beyond that I
+think it's being really intentional
+about what customer that you're going
+after I think at this stage it's easy to
+say we can we're going to sell to
+everybody super counterintuitive to say
+these are the Thousand accounts that we
+want and these are that's this is why
+they're exactly perfect to us and we'll
+get the other 9,000 later and so I think
+niching down and being really specific
+around who your Target customer is can
+be hugely beneficial and sure we're
+going to get in downs from people that
+don't fit that profile and sure we're
+going to sell to them but when we invest
+marketing dollars and out and then
+lastly I'll say that the offer when it
+comes to marketing and sales and new
+logo acquisition is I think the biggest
+issue and something that I've faced in
+my company right now about what are you
+offering when you do that Outreach come
+buy our $24,000 a year SAS tool or are
+you going to be able to offer hey if you
+give us these three reports we'll look
+at all your data and come back with all
+these insights and things like that and
+have a have a way different conversation
+instead of a discovery call and a and a
+pricing call I think that when it comes
+to advertising it's very clear that and
+even with outbound messaging that the
+offer that you put forward on the table
+about what is this call about can be the
+number one thing that is the difference
+between your success rate or your apply
+reply rate being 3% versus 11% and then
+yeah I don't think that a lot of people
+are like spend a lot of time thinking
+about your the copy that goes on your
+website and things like that and sure we
+should do that and we should know our
+customer but it's easy for a competitor
+to look at your website and literally
+put the same thing on their website and
+people have been doing that to me for
+five years yes we have to be in touch
+with the message and what the market
+needs but messaging isn't a
+differentiator anymore
+yeah so you're saying like word of mouth
+and having customers actually spread
+that is something unique that people
+can't copy because they really get value
+getting the customer the result making
+sure that they acknowledge the result
+and then being able for them to
+unprompted it's not an influencer
+strategy if your customers love the [ __ ]
+that you do for them and want to tell
+their peers to be more successful too
+and we all do that with different
+products in our life B doesn't have to
+be a B2B product right and so having
+that level of that's the number one way
+that people buy and then sure my podcast
+gets a lot of people interested but most
+of the people that listen to my podcast
+for a long time will reach out to the
+people that have testimonials on our
+website and ask them how did that go I
+just had it happened to me yesterday I
+reach they reached out to somebody
+didn't even ask me and just we had a
+testimony on our thing they knew them
+they asked and they said you know I
+talked to that customer they said you
+did a great job for them here's three
+more questions and we're ready to go and
+I think that sometimes we
+underappreciate the back channeling and
+things that happen that we have no
+control over except for did we deliver
+what we said to our customers I think
+that is by far the most important thing
+do you think that's enough for like
+defensibility and also how do you apply
+it to software and how can we make
+software defensible in that it's so easy
+to copy messaging so easy to copy
+features what's your thoughts I don't
+think that companies sell software
+anymore I think that they sell a service
+that gets delivered through software or
+they deliver a business result that gets
+delivered through software but the blend
+of services and software is NOW
+essential like just for what I reason I
+just said and the example that I gave
+about six cents right it's not just
+about selling the customer software it's
+about making sure that they're
+successful with these softwares and not
+just Outsourcing it to an agency and
+saying hey the agency is going to go and
+Implement that for you fails most of the
+time and I don't think that software is
+that defensible anymore I think that
+defensible the true defensible modes
+are being closer to your customer than
+anybody else in your Market not just the
+people that pay you but the people that
+could pay you or should pay
+you getting the customer an actual
+result through doing the hard work that
+most SAS companies don't want to do
+because I think it impacts negatively
+impacts their gross margin but then they
+pay for it with grr and nrr later and
+then leveraging proprietary data in
+unique ways I think those are the three
+defensible modes from now we've actually
+been I actually jumped from heading
+products into customer success and
+because we've seen we have our tool you
+can orchestrate anything your go to
+market team wants to do in our tool and
+they're like great but they don't have
+good strategy so then but our current
+CSM team they're not go to market
+strategy experts that like I think we
+need that in our team to actually help
+our customers get to success so that
+they stay around um our customers right
+now at my company we're like you know
+small Millions smaller than you in
+Revenue we charge $2,000 a month for our
+software and then we charge $6,000 a
+month for our expert services that make
+you successful with the software where
+we work with the executive team to
+implement it educate their team align
+people and make it successful I'm not
+recommending that pricing strategy or
+that that breakdown of
+2575 but I think that giving away
+customer success for free at this point
+is not smart and then how do you who do
+you hire to be those go to market
+strategies like for our customer success
+team does it make more sense to hire if
+we're not using agencies are we hiring
+at this point I think you have two you
+have two teams that have that work on
+the post sale side um you have
+Professional Services which are
+Consultants people that have done your
+customer's job before and helped them be
+successful and they you get paid 300 500
+bucks an hour to do the work with them
+or however you want to charge for it um
+and then uh you have account management
+and account management is really a sales
+function of how do we get our customer
+to recognize that they get the result
+how we get them to renew expand
+multiread within the account know the
+right people that we need to have them
+all be on our side understand and
+anticipate problems or churn or things
+like that and address it and maybe
+that's what you're doing and you just
+call it customer success but when I see
+you have Professional Services that you
+get paid for you have account manager
+that does sales and then customer
+success is kind of in no man's land in
+the middle but I think that maybe we
+should it could be a terminology thing
+but I think we should just have those
+two do you guys have questions I can go
+dive into I know basically like warmly
+right now we we basically had f Fus on
+the sales side a lot of helping the SD
+the SDR manager taking advantage of your
+website intent and creating a flywheel
+pushing taking those website visitors
+doing more marketing stuff that so it's
+a whole fly we've now kind of shifted
+into what's actually defensible and
+actually help us in the long run so
+we've been thinking a lot about the
+entire Revenue team from the marketer to
+sales to customer success and really
+helping them narrow in on their ICP and
+also figure out who to Target at the
+right time and managing that entire CRM
+because there's not really a good CRM
+for the revenue team it's kind of split
+on sales marketing has their automation
+um but there's nothing really helping
+people to manage that through the entire
+flow and smartly take advantage of who
+to prioritize your time your budget on
+marketing side and I don't think our
+team as as knowledgeable on the
+marketing side go to market the sides of
+the sales and the SDR team that that
+could be an helpful area that we dive
+into just what's the go to market
+strategy when you especially when you're
+working more on your fine lab side of
+what's the go to market Market strategy
+that you're seeing in the past couple
+years and then the pain points with that
+and how we're shifting people and how
+can our tool maybe help um do that
+movement built into our tool and then on
+the side we also have Professional
+Services helping people move towards
+that new marketing movement or good
+market movement cool I'll just I'll just
+shoot the ship and this isn't really
+advice for you I'm just going to talk
+about the things that I'm I'm seeing I
+am quite interested SL obsessed right
+now with the concept of pay per
+deliverable or pay outcome instead of
+pay per seed or pay per subscription
+meaning that instead of them paying you
+2,000 bucks a month or whatever they pay
+you for your software that they pay you
+a 100 bucks per meeting they book or $50
+per engaged count or something like that
+you can think about different ways of
+the billing model where basically if the
+customer's not successful and they don't
+get what you said they're going to get
+then you don't get paid forces you to
+get the customer the actual result so I
+think it's good actually and fair on
+both sides then if you get the customer
+a results you get paid way more than you
+do by on the subscription model um I
+think that's interesting I think that
+whoever can crack the signal tracking
+plus having the analytics to know what
+signals work plus automated AI based
+emails LinkedIn messages and then charge
+based on a paper meeting paper
+deliverable would be the most one of the
+most valuable companies out there so
+that's one thing like Shifting the pr
+the pricing model is already happening
+especially with companies that are AI
+native that move more way less on
+subscription way more usage based on
+outcomes when it comes to your own go to
+market strategy I think that the that
+every company should have someone like
+me and I'm not like tooting my own horn
+but somebody that's Pro like usually an
+executive level person but if you think
+about sangram that dated for Terminus
+like he was just the chief evangelist
+officer and a shareholder so it doesn't
+have to be the CEO a person that is
+seeing what is going on with our
+customer base what do they need what are
+they trying that isn't working what are
+we doing that's different that's making
+them work and then feeds that back into
+the top of the funnel work inside of a
+podcast Live Events speaking at
+conferences and things like that and
+then that can move into the sales
+enablement of the message in the sales
+process so that's all set but I think
+that the big Insight is taking the main
+marketing stuff is taking the stuff that
+you're doing with your customers and
+then bringing it back to marketing not
+the other way around that's how if I
+like reverse engineer what I've been
+doing that's what I'm that's what I'm
+doing
+and when people say you know you like
+explain things in a way that like I've
+always thought but never knew how to
+explain it I've been thinking this for
+years but didn't know how to say it the
+reason ISC and they see it from the
+marketing side but the reason I know it
+is because I watch 50 companies do
+something and [ __ ] it up and that's why
+I know the problem that's the problem
+and so there's something in there about
+using the stuff from your customers and
+then bringing it into your marketing to
+I call it twisting the knife but
+basically really driving home what the
+pain point is what people are trying why
+it isn't working and what you know
+that's different and I think a lot of
+thought leadership content is total
+fluff yes
+yes total flu and no wonder their brand
+Investments don't work like they it's
+they're not driving any real message
+into the market I also think that having
+a podcast where you just interview
+guests is not a good
+strategy you're you're promote promoting
+somebody else's message instead of your
+own and I think that strategically using
+gas that can you know reinforce messages
+that you already think like I do that
+sometimes having a show where you just
+interview guests and then put it on I
+think it's generally like a waste of
+time or a low value activity I think
+that companies are in this Either Ore of
+like anything right don't do LinkedIn
+it's rented do your you got to build
+your email list instead or paid sucks
+only do organic or organic sucks only
+due paid and I think that we should get
+out of the either or and be in the and
+game and think about things and how they
+work together that we use organic
+LinkedIn and podcasts for broad
+awareness and then we take paid and we
+narrow in on the thousand companies that
+have been on our website in the last 60
+days or the Thousand companies that we
+know really need our stuff I think that
+a lot of companies when they do
+advertising they go really Broad and
+they spend a lot of money and I think
+that the new advertising strategy will
+be a lot more focused I also think that
+moving out of what I'll call like intent
+based Chann channels than Capa trust
+pilot fugle search things like that for
+advertising and moving more into
+channels that I'll call like awareness
+channels people that aren't like
+searching for what you do or looking for
+what you do right away and going out and
+getting knowing these are the companies
+that really need our stuff this is the
+message that really works I'm going to
+go out and get them instead of waiting
+for them to to figure out they need us
+in searching Google but being more like
+spear fishing and than throwing out a
+huge net I think that a lot of companies
+waste a lot of money on Advertising I
+know it run an advertising agency and
+like a lot of companies won't even they
+hire us they won't even follow our
+strategy they'll just do they'll tell us
+what to do and they'll waste a bunch of
+money for six months and then they'll
+let us do what we need to do afterwards
+and so I I think that problem is
+different than it was in 2021 where
+people were just FR frivolously spend
+and not measure it people are a little
+bit more disciplined now but using
+advertising differently than how it's
+been traditionally used I think is a
+huge Point as well and we we should if
+the ACV allows and our cap allows it we
+should be using that as a method to go
+and reach our Target customer and to
+Target people in that that
+company what are the biggest problems
+that companies are coming to to solve in
+especially in the go to market I kind of
+called them out but I'll just say it
+more clearly the c-level executive team
+doesn't have the Data Insights and
+structure to be able to make what should
+be smart easy confident decisions based
+on data so instead it falls back on
+somebody's opinion about what's
+happening and somebody's opinion about
+what we should do which is generally
+whatever they dat at the last company
+that they did um and like I said there
+was a massive shift so if you're
+following what you did at maretto in
+2013 or what you did it your last
+company that exited in 2017 those
+strategies are very unlikely to to still
+be viable today we're in a different
+different world not only just like the
+way that customers buy is changing but
+the economics around software and how
+investors value software companies is
+totally different than it was you know
+even just three years ago um so I think
+that
+uh companies use technology as a crutch
+and they reach for instead of solving
+the real problems so you can see like
+the change from marketing Ops to and
+sales Ops to rev Ops um the change from
+a having a head of sales to a chief
+Revenue officer we don't have a chief
+marketing officer it's a chief Market
+officer companies look for the most
+superficial easy to change things which
+is change job titles or buy technology
+instead of fixing the real [ __ ]
+problems that are deeply ingrained
+inside of companies the process for how
+they do it the structure of how they
+think about marketing versus sales how
+they think about that how they use data
+to make decisions how they report back
+to the board how they hold people
+accountable how they comp their sales
+team how they comp their marketing team
+I think sales comp sorry for the sales
+people in the drum lot of I think sales
+comp plans and the way that they work
+today are the one of the stupidest
+things ever it's the exact same thing
+that companies used in 201 2013 and 2007
+when the salesperson had to Prospect and
+then educate the customer and then close
+the deal and then onboard the customer
+and then account manage and expand the
+customer because there was no marketing
+support and they didn't have all the
+specialization in roles and sure yeah
+they should have got comp the way they
+did where they had massive commission
+plans and things like that the way that
+sales works today most of the buying
+happens independently before they ever
+talk to you and sales is not I don't
+want to discredit sales but there's a
+lot of order taking that happening
+there's a lot of work that happens tooo
+so I don't want to discredit it but I
+think the way that the point that I'm
+trying to make here is that companies
+need to rethink Things based on how the
+world works today instead of just
+reusing what's been happening for a long
+time so that's the Departments the
+compensation structures I think the
+compensation structures Miss align go to
+market teams totally marketing being on
+base salary sdrs often times being
+comped differently for an outbound
+meeting versus an inbound meeting yeah
+so there's just a Mis misalignment of
+the how the compensation structure works
+based on a world that doesn't exist
+anymore so those are some of I guess
+elaborate uh some of the problems that
+I'm seeing good I'm G to open it up
+yeah all right Chris he's our head of
+marketing the first one's going back to
+the pricing for outcome M and as person
+I was at a company that did a lot of
+pricing based on outcomes um this is for
+like sh for the pr press and stuff
+already but but similar thing was that
+when we started to price for outcome
+most price in terms of like General
+return they rece for product the first
+question that always popped up was yeah
+did it that's D actually did your C
+actually do it and it feels like when
+you start to charge for that question
+pops a lot more curious about how you
+start to breed fun know had infection or
+set gr over or just start to avoid that
+you know rejection or that you know
+counter to what you're proposing so take
+one step back instead of charging based
+on a result and instead based on a
+deliverable so there's a company called
+algolia and they have a search and
+search like plugin for e-commerce
+websites and they charge per thousand or
+per million completed searches and those
+websites get maybe a million searches in
+a day and so it allows a small company
+to be in there and pay them whatever
+they pay them a small amount of money
+and then the big 100 Ecommerce companies
+pay them millions or tens of millions of
+dollars a year and it's not about did we
+did you get the sale it's like our
+search works 100 times better than your
+native WordPress search and they have
+enough data to show you know increased
+aov or conversion checkout or whatever
+and then they just charge per completed
+search another company recently is
+charging per ticket close for an AI
+agent and so instead of having a human
+do it they charge $2 per ticket close
+with the AI agent which is way cheaper
+than having a human manage that so you
+can pay you can charge based on
+deliverable instead of based on outcome
+which sort of it doesn't perfectly
+eliminated but it makes it a lot easier
+to justify what you're doing so that
+would be my recommendation I struggle
+with the result thing too in sales and
+marketing because a lot of things did it
+you know what I mean like have that
+person for the search for example that I
+gave like have that person get to your
+website you know what I mean are you
+going to take credit for that whole $70
+sale on nike.com because they search in
+your website probably had a Google ad
+television commercials branding word of
+mouth all these other things that were
+happening and so specifically in sales
+and marketing logo acquisition I think
+it's really hard to pay to charge based
+on and take a percentage of Revenue or
+something like that to work one step
+backward companies are already used to
+paying sdrs per meeting or using an
+outsourced SDR firm to pay per meeting
+and they'll pay in different tiers based
+on an SMB account versus a midm market
+versus an Enterprise or strategic and so
+you can look for places where companies
+are already used to paying per
+deliverable and then just work to
+automate it make it more efficient or
+use software to do it instead of humans
+yeah yeah and seg kind of perf
+question what would that happen um which
+Rel back to you and a little bit
+attribution pretty that you know 100%
+solve attribution because that would
+essentially be soling for whyu made a
+decision that one win time which is
+probably unable to you so the question
+is youed earlier about who
+Maring work enabling such
+findel and you having cont on top once
+LinkedIn and then creating Target ads on
+top of that a link in advertising Target
+people Vis site or engage of content and
+so even that kind of example or other
+examples what are your kind of thoughts
+now on on how you sort of attribute that
+or it should be done across theal I
+think obviously M couch is probably also
+a video Voodoo as well so like how do
+you kind of view like Mar invest versus
+Mar that is more just theom stay solid
+going and that's basically what you
+worry about the agregate yeah so let's C
+I'll cover one thing and then let's talk
+about attribution unit economics the
+reason that my podcast and Linkedin
+content works so well is because I
+understand the problem deeper than
+anybody so it's not that I'm like just
+amplifying what my customers are saying
+about what they like about us it's that
+I see I'm in the work with my customers
+and I see the patterns across a lot of
+them so I'm able to communicate and
+understand the problem in a different
+way way it's very different than how
+other people are marketing the problem
+and Sol and their solution for it and
+then I'm able to understand and watch
+what companies are trying to fix it and
+then see how see whether or not it works
+collect the data and then make a and
+then when I'm able to say that people
+then say that's different that's
+interesting I've tried those couple
+things and those didn't work now I trust
+this person more so at the top of the
+funnel to me I look at it more about
+having a differentiated perspective
+around the problem and being able to
+frame frame that really well which comes
+through working with a lot of companies
+and being in there which leads to why
+you have Professional Services and
+things like that as a strategic
+advancement and then on the measurement
+side I agree I don't think you there's
+ever a perfect solution and I don't
+think that and I this is the space that
+I kind of play in now across the whole
+go to market but a lot of it like the
+main problem is what the [ __ ] is
+happening before the opportunity gets
+created that's where people don't really
+understand and so the core issues and I
+posted about this on actually wrote a
+note to a long note to my one of my
+customers today about this exact problem
+cuz they're going through it um the core
+issues is that number one C Level
+Executives don't own it they delegate it
+to revops they delegate it to a
+marketing director or someone like that
+this problem is a finance problem that
+that gets that negatively impacts Scotto
+Market but I believe it's a finance
+problem we have enough data to know not
+necessar we we what at least what things
+are doing something right multi todge
+combin with s single Source or whatever
+that type of stuff like the problem with
+that is that it looks like everything's
+working and we don't know which things
+are worth the dollars that we're
+spending on them versus not that's the
+main conundrum that people have so
+everyone tries to fix it by looking at
+the most tactical data first which is
+campaigns touch points email reply rates
+for sdrs things like signals things like
+that and they try to to build it up and
+as they build it up the thing doesn't
+it's breaks eventually and there's no
+Finance data and then you get to the ca
+level team and the SE Lev team's what
+the [ __ ] am I going to do with this it
+looks like everything's working
+meanwhile our C has been going up for
+four quarters I don't know what to do
+and so there's a issue with the way that
+it gets built Bottoms Up there's an
+issue that se Lev Executives don't own
+the problem even though it's the most
+painful expensive problem in their
+entire company and and the last one is
+that people people do not clearly Define
+what the problem is it's not a
+technology
+problem uh it's it's a process problem
+which it involves technology but it also
+involves people how you structure your
+CRM data how you use that data what data
+you're looking at why you look at it and
+then how you make decisions against it
+and so it's really the process that is
+the issue and there's one more that I
+forgot is people look for a like a
+silver bullet solution i' every single
+one of my Discovery calls is you know
+we've been thinking about implementing
+this multi attribution tool and think
+that's going to fix it or you know we've
+been getting really good with our
+powerbi dashboard and now we're going to
+put chat gbt on it and we're going to be
+able to query it and something like that
+and the problem is that when you look at
+all the things that are spent on gota
+Market there's a lot of things and
+there's a lot of different reasons why
+you spend the money in different places
+and so applying one way to measure all
+these things that have different reasons
+for why you're measuring them means that
+you have a model that just looks
+basically basically inflates the
+effectiveness of one thing which is
+generally Performance Marketing or
+highly trackable things and so what
+we're doing at my company is one
+rethinking what what is the reason that
+we're measuring all these Investments
+and then once you say okay like people
+in the little brand versus demand I
+think those are not the right categories
+to put them in but you and I want to be
+conscious of how I can answer your
+question without giving away sort of our
+secret sauce so you
+have I know this will going my podcast
+marketing there's probably four or five
+reasons that you would spend money on
+something right like some of the
+investment goes to drive up nrr some
+companies will spend 2 million on a user
+conference it's just for their customers
+and then you'd expect some type of
+benefit in terms of a combination of
+renewals and expansion Revenue based on
+that investment and then you have a lot
+of things that happen for other reasons
+like we want customers to be aware of us
+right I don't believe in that theory but
+like we need customers to be aware of us
+then what I call supply chain which is
+like how we get uh highly qualified
+accounts that have the right signals
+directly to our prospecting team to get
+meetings right there's a very specific
+reason that money gets spent in that
+area then you have prospecting then you
+have
+closing um and so thinking about all
+those different areas and then saying
+what is the goal of this big amount of
+stuff let's just do supply chain because
+it's the most simple right yeah so
+inside of that instead of saying inbound
+and outbound we just say we have first
+and third party signals and we're going
+to look at them all together and I don't
+why companies don't do this [ __ ]
+okay so it doesn't matter whether they
+were in our marketing automation
+database and we you know sent four
+emails to them or they came from warmly
+third party Anonymous website traffic
+signal or something like that so all
+them get looked at together and then you
+have the costs of the software and the
+data and the people that run the stuff
+and the agencies that do it and then the
+advertising that has that objective and
+you put all that stuff together and then
+you say how much do it cost what's the
+Blended cost of a signal and then you
+can look stack them top to bottom and
+say which are the signals that drive the
+best results in the best Roi and if you
+did that youd probably find you know
+warmly and third party data sources have
+a much higher efficiency than paying per
+lead on a LinkedIn ebook same purpose
+way different method and objective they
+stack them top to bottom you say here's
+all the shitty stuff that doesn't work
+throw it out put more on the the the top
+stuff and then you'd basically have that
+same process in other other areas and
+then lastly
+is that there's a difference between
+measuring performance and tracking
+progress versus trying to look at the
+granular data to make it better and I
+think people blend those two things
+together when they use attribution and
+so at a top level it's what is our CAC
+what's our return that we spend all this
+money on how much pipeline do we get
+back how much pipeline dollars per
+dollar invested over there do we get is
+that going up or is it going down do we
+have enough do we create enough pipeline
+to have quota cover do we have
+scalability and things like that that's
+the Northstar that's what I'm saying
+about having a twoos slide marketing qbr
+deck to the board it should be very
+clear these are the numbers this is what
+it was three quarters ago two quarters
+ago one quarter ago now yeah is it going
+up is it going down is it flat is it
+within our range in order to hit our
+plan and Achieve our growth targets
+simple and then underneath that then you
+get into all the Tactical stuff breaking
+into different Investments and
+objectives looking at that data and then
+making changes then you make the changes
+and then you measure the effectivess of
+the changes back up against the top
+level stuff so sh every initiative needs
+its own set or has its own purpose own
+set of metrics and all of that e to
+relate back to the cories for which is y
+Go De way essentially we're judging all
+hers on their ability to ride and not
+for dead maybe that's not their purpose
+and the only need be assigning the corre
+fpus relative TPM
+call yeah I mean we can't measure our
+podcast the same way we measure Google
+ads we can't measure Google ads the same
+way we measure fdrs we can't measure
+demo requests the same way we measure
+fdrs a lot of companies try to do it
+that way awesome cool I love that topic
+hey I'm you inside
+cool as far as you know you mentioned
+obviously the buyer experience and tur
+be is so different and we're trying to
+avoid being just as ordert takers what
+you think think it's most broken in
+sales process and how can you Pro that
+to be honest I don't think that sales is
+a problem in 99% of companies that if
+sales had the right amount of qualified
+accounts and buyers to achieve their
+pipeline targets that a sales team can
+execute a process consistently and close
+the deals they need to do at a win rate
+that matches what their plan
+is I think the companies can manage
+opportunity creation to Clos one very
+simply and the real reason is that they
+do not have an engine to get enough
+people interested to create enough
+pipeline and why is that because they
+don't get appropriate Roi and all the
+Investments that they use to create the
+pipeline and then that forces sales to
+go and have to do low value pro low
+Effectiveness prospecting and things
+like that which is a Band-Aid it like
+having a seller that's going to make
+200,000 or whatever they're making per
+year make cold calls that they're going
+to get meetings at one 1% or something
+like that the meetings you're going to
+win at 4% you're just perpetuating
+unsustainable model and then you hire
+more head count and it continues to get
+worse and worse and so I yeah I I wish I
+could answer your question better but I
+actually don't think it's a problem
+across a lot of companies that I work
+with it's like their sales team does
+what it needs to do the problem is they
+they don't create enough pipeliner they
+don't have the right they don't have the
+right goals based on historical economic
+performance if you'll follow up you want
+to dig a Little Deeper I'm happy to I
+guess in problem seller yourself and as
+a buyer what would you say and you I
+gave an example earlier of you know
+having a different process even from
+Discovery you know what do you think is
+a good buying experience what separates
+you know are complete from another I
+think that by the time someone is
+talking to you they're predisposed to
+whether you're in third place or first
+place before they even meet you so if
+you're in first place don't [ __ ] it up
+and if you're in third place you're at a
+severe disadvantage and so it's about
+trying to figure out how do I get to the
+people before they have decided on what
+that list is and often times signals are
+too late and that's why I get to the he
+the Thousand accounts that need us we
+know this because you know that's all
+the similarities of our current
+customers that have the highest LTV or
+give the most testimonials or whatever
+you decide to measure it on it's usually
+not as simple as there 100 to 500
+employee companies that are in this
+vertical like it's there's a there's
+different reasons that are harder to
+understand
+psychographically how the organization
+is structured something like that and
+then we have those thousand accounts
+before they have Quantified the problem
+given budg before decided and then we
+can be the people who educate them on
+that I think the best way to do that is
+by using an offer that is free and
+provides a lot of value like what a
+consulting firm or an agency would use
+um to get their data and then create a
+business case around the data like I
+think that is like uh like professional
+selling today
+yeah
+cool hey
+man thank youim
+fact how we built our p is separate
+from the veloc for each from watching
+one of your episodes so I take a lot
+what you saying apply it curious one two
+partner here do you believe cold is de
+do you believe is so is useful for team
+I they we got P
+color you were build out the sales The
+Columns what would that on your team Co
+calling is onedimensional so I just
+think about it as going out and getting
+a Target customer through whatever
+vehicles that we can choose so like cold
+calling LinkedIn messaging Instagram DMS
+email seeing someone at a local event
+that I happen to live in the city and
+there's an event that I go to on my own
+dime or whatever so you have all these
+different ways that you can engage a
+customer that isn't coming to you that's
+not dead for sure I think that the
+methods in which that they're used and I
+think are different and I think that
+there's a big element of setup that
+wasn't needed five years ago or 10 years
+ago that's needed now people need to
+understand your company know what you do
+ideally understand the problem have
+talked to people that have already used
+your product I'll give you an example in
+2017 this is a long time ago I could
+clearly see that our outbound SDR model
+wasn't working and the reason it wasn't
+working is because we would book
+meetings and have success booking
+meetings and our sales team would have
+to tra our field sales team would travel
+for half a week to go to this customer
+for one meeting and we win those
+meetings at 2 or
+3% and it just doesn't scale and and
+then I started to do market research and
+say and we interviewed surveyed 500 of
+our Target the the person who signed the
+check which was the director of
+respiratory therapy most often inside
+they work inside hospitals and one of
+the questions that we asked them is what
+steps in the buying process would you
+like to complete before you talk to a
+sales route and the answer was I want to
+see the clinical data about how it works
+I want to and I want to talk to a peer
+at another facility that uses as a
+product and so we Chang our outbounds
+our advertising strategy started to be
+all about the clinical data you started
+marketing we call them key opinion
+leaders people that are do the studies
+and things like that videos of them or
+linking directly to the study in
+Facebook ads in 2000 and then on on the
+outbound side instead of saying hey do
+you want to have a meeting with our
+sales rep it was hey this person at this
+other facility nearby you that you know
+uses the product and has been having
+success with it would you like to talk
+to them and so understanding what steps
+your customer wants because if when our
+salesperson walks in and they haven't
+done those steps they immediately are on
+the defensive and they don't trust you
+and so figuring out like so it's
+thinking outside the box around like how
+can we do this differently because I
+think the if you just keep repeating the
+old way you're just going to get
+diminish continuously diminished returns
+so that's one example of what you can
+do on the on the comp plan side
+admittedly I haven't thought totally
+through it I understand that it doesn't
+align with how the buyer buys anymore or
+the value that is created across the
+customer Journey Back in the Day sales
+owned 100% of the new logo Journey maybe
+they saw your marketing at a trade show
+booth in 2011 the companies I wore for
+back then barely had a website you know
+and so sales had to do everything and it
+was mostly field sales um and so they
+owned 100% And now if you look at the
+data it's
+22% of the of the journey that they own
+and I think that requires us to sort of
+rethink how it works it's hard though we
+want to get the best talent in our sales
+team right and all the other people are
+doing it in a certain way and so it
+doesn't mean we should pay sellers less
+I think it means that we need to rethink
+based on the objectives that we're
+trying to accomplish how the whole team
+is is comp
+and measured the called go to market
+your new logo team and that could be I
+guess I'll challenge the SDR like model
+as well I think uh so I'll tell you what
+I've tried that didn't work um so I
+tried no variable commission plan um for
+Sellers and it and it didn't
+work um and my thinking around it was
+it's my responsibility as a CEO to set
+up our goto Market where our sales team
+has enough pipeline to hit the Target uh
+and I think it usually leads to people
+just sitting and waiting for inbounds
+yeah exactly I think that the the nature
+of how companies try to use uh
+Department Source attribution at one
+level maybe not for the whole thing but
+like hey marketing sourced that because
+it came through the website SDR sourced
+that because we got it from a third
+party signal and we went outbound sales
+sourced that because they sent an email
+and got that meeting I think that is
+fundamentally flawed because usually
+sdrs and sales when they get a meeting
+and requires lots of marketing activity
+for the person to positiv respond and
+things like that so I guess short answer
+is I don't have a perfect answer for you
+right now but it's something that I've
+been thinking about a lot so when I do
+I'll report back when I do these
+processes uh it's it's easy not easy
+it's the first thing that you that I do
+is identify the pro what's the problem
+right and it's usually we're operating
+in a way that about the world used to
+work but now the world has changed and
+we haven't changed so that's where I'm
+at in this area right now and I'll keep
+trying to figure out what the right
+solution is so one I believe a company
+that'll succeed our Stace is going to be
+the one that can learn the fastest and
+apply those learnings and adjust fastest
+you seem to have mastered that and I'd
+love like what is your advice to our tun
+to become that kind of Speedy learner
+like how do you think about what are the
+right questions to ask what is the how
+do you choose what time um how do you
+choose what you focus your time on to
+keep learning really fast and becoming
+like a the thought leader conable yeah
+um so first off I don't buy into the
+winner take all uh thinking I think that
+uh I think about in in abundance that a
+lot of people can win I also don't truly
+believe in the concept of competition I
+believe that a lot of people try to do
+similar things as me but because I
+understand the problem and look at it
+differently that no one's really solving
+it the same way that I do which breeds
+differentiation and things like that and
+just from a mindset standpoint it's way
+more fun to just be like I just want to
+help my customers be successful and let
+the ships fall where they may and not
+have to worry about what the other
+[ __ ] are doing out there doesn't
+matter and then how do you drive fast
+like learning is I really care that my
+customer gets the outcome that I
+promised them and I think that most
+people in whatever role and go to market
+are not taught how to be curious and
+listen to the customer
+instead of pushing the customer based on
+what you want them to think or hear I
+think people get happy years when they
+listen to customers and they more hear
+about what they want to hear or they ask
+leading questions to get the answer that
+they want to hear I think that it was
+about moving fast yeah like how do you
+learn fast how you choose what to focus
+your time on how do you because I feel
+like you keep getting to a bigger
+picture you're always like I want to
+solve a bigger problem you're in
+marketing but then you're like it's a
+revenue problem no it's a it's an entire
+company Finance CEO level problem I
+think that overtime what what I have
+become a lot more conscious of is
+thinking about what is it about me and
+my experience that gives me a unique set
+of tools and skills to do something that
+other people wouldn't be able to do and
+having a it hasn't been this like the
+whole way but having a really sense of
+self-awareness around what are the
+things that I'm really good at and what
+are the things that I'm very like
+different or gifted in and how do I put
+all my energy on those things and not
+try to do all the other stuff that sucks
+my energy and doesn't provide a lot of
+value that somebody else is much more
+equipped to do I think that is actually
+the secret to to speed and energy I'm
+doing things that aren't aligned with
+that I'm tired I want to take a nap at
+3:00 in the afternoon I'm like can't
+weave my team and then when I am aligned
+with my purpose and skills I can work
+for 15 hours a day and love
+and so I think it's and that's that's an
+internal thing it can it's not like your
+max doesn't have to change it or anyone
+of the leaders that's just you
+understanding that stuff and then
+leaning into it because you can craft
+your job and accomplish your objectives
+in a million different
+ways and that has been my key to I think
+curiosity intense customer focus the
+mindset of what whatever I'm selling I
+want to be the number one consultant for
+my Target customer in the world that's
+my that's how I approach it and then and
+like really selfawareness and leaning
+into your strengths or things that have
+worked for me that's awesome thank you
+so much Chris cool thanks y I have love
+see
