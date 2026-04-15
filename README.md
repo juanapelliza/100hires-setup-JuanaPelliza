@@ -44,5 +44,11 @@ To ensure high-quality data collection, I utilized:
 - **AI-Assisted Curation (Claude 3.5):** Used to summarize key insights, categorize content with tags, and ensure the information is "scannable" for stakeholders.
 - **Manual Scraping:** Collected specific LinkedIn posts to analyze formatting and hooks.
 
+## Featured Expert: Sam Dunning
+
+
+- **Technical Issue**: Initial API call failed due to specific video restrictions (`VideoUnavailable`).
+- **Solution**: I collaborated with Claude to refactor the Python script, adding a "fallback mode" that allows custom URLs.
+- **Result**: Successfully extracted the transcript for Sam Dunning's video using the new script, fulfilling the API-usage requirement.
 ---
 *This project is part of the 100hires technical assessment.*
