@@ -1,0 +1,2 @@
+pip install youtube-transcript-api
+python3 extract_sam_dunning_transcript.py
