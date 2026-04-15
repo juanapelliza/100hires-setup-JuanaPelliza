@@ -16,6 +16,33 @@
 **Navigation Challenge**: When I first opened Cursor, the interface was "clean" (the Activity Bar was hidden), and I couldn't find where to search for extensions.
 - **Solution**: I used AI assistance to identify the correct menu settings (`View > Appearance > Activity Bar`) and keyboard shortcuts (`Command + Shift + X`) to access the Extensions marketplace.
 
-## Topic: LinkedIn organic content strategy for B2B SaaS
-## Chosen experts
-- **Justin Welsh**: I chose Justin Welsh as a primary expert because he successfully transitioned from a SaaS Executive (VP of Sales at PatientPop) to a solopreneur, proving that his LinkedIn strategies are rooted in real B2B sales experience rather than just theoretical 'vanity metrics'.
+
+# B2B SaaS Research Project: LinkedIn Organic Content Strategy
+
+## Project Overview
+This repository contains a high-signal research project focused on **LinkedIn Organic Content Strategy for B2B SaaS**. The goal is to identify and deconstruct the methods used by top industry experts to drive awareness, trust, and revenue through organic social content.
+
+## Chosen Topic
+**LinkedIn Organic Content Strategy for B2B SaaS**
+* **Why this topic?** In the current B2B landscape, "Dark Social" and organic presence are becoming more effective than traditional paid ads. Understanding how to build a personal brand that drives SaaS demos is a critical skill for 2026.
+
+## Research Structure
+The project is organized into three main areas:
+- `/research/sources.md`: A curated list of 10 industry experts with annotations.
+- `/research/youtube-transcripts/`: Deep dives into interviews and masterclasses using API-extracted transcripts.
+- `/research/linkedin-posts/`: Real-world examples of high-performing posts organized by author.
+- `/research/other/`: Technical proofs and additional materials.
+
+## Featured Expert: Justin Welsh
+The first phase of this research focuses on **Justin Welsh**, a pioneer in "Content Operating Systems."
+- **Selection Criteria:** Former VP of Sales at PatientPop (SaaS). His strategies aren't just for "influencers"; they are rooted in B2B sales cycles and scalable systems.
+- **Key Contribution:** The "Creator Funnel" (Awareness > Trust > Relationship > Monetization).
+
+## Technical Implementation
+To ensure high-quality data collection, I utilized:
+- **YouTube API tools:** Extracted full transcripts from long-form interviews to identify strategic pillars.
+- **AI-Assisted Curation (Claude 3.5):** Used to summarize key insights, categorize content with tags, and ensure the information is "scannable" for stakeholders.
+- **Manual Scraping:** Collected specific LinkedIn posts to analyze formatting and hooks.
+
+---
+*This project is part of the 100hires technical assessment.*
