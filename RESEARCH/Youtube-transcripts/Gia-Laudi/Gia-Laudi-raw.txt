@@ -1,0 +1,880 @@
+Welcome to the Lead Generation Podcast,
+where innovative entrepreneurs share 
+their stories and secrets to success.
+Itt’s time to take your digital marketing to 
+the next level with your host, Bob Sparkins.
+Who is Gia Laudi?
+Bob Sparkins:
+Gia, welcome to this episode of the 
+Lead Generation. Thank you so much
+for joining me today.
+Gia Laudi: Thank you
+so much for having me, Bob. I'm excited.
+B: So we're going to dig into a lot of really
+cool, nerdy stuff around customer-led growth and 
+how to grow sustainable companies, especially SaaS
+companies. Before we do that though, I know that 
+as an advisor to a lot of the clients that you
+work with, you impact their lives in some way. Can 
+you pinpoint or highlight what is a way that you
+transform the lives of the clients you work with?
+G: Yes. So there's a number of things that we do,
+but I think at the heart of it, it really comes 
+down to helping companies, teams, really get
+clear on who their best customers are and then 
+how to reach and retain more of them. There's a
+lot of guesswork that goes into marketing and 
+growth. We try to eliminate as much of that
+as we possibly can and make really informed 
+decisions about what type of marketing we do,
+but also what kind of customer experiences we 
+create for our customers and everything that
+evolves from there as well, customer marketing, 
+expansion, retention. It really does come down to
+knowing who your best customers are, reaching, 
+retaining more of them, high LTV, delivering
+lots of value. It's really about all of that.
+B: Very cool. And I imagine that the breathing
+room that the leaders have after they've 
+worked with you and Claire kind of expands
+what's possible for them, right?
+G: Yeah, it's a lot about
+clarity and alignment and getting clear on what's 
+important and what the priority should be. There's
+no shortage of ideas. When you think about 
+marketing and growth, we all have lots of ideas.
+Everybody is marketed to. We all like to think of 
+ourselves as marketers, marketing experts. There's
+a lot of experts in this space. There's a lot of 
+ideas and channels change and evolve, and at the
+end of the day, while none of these, I would never 
+claim that any of those tactics are bad ideas.
+Where it gets challenging is that we have 
+so many ideas, there's so many directions we
+could possibly go into. It's really a big 
+challenge for teams to figure out, okay,
+what are the most valuable places for me to 
+focus on? And the best way to get the answer
+to that question is to find out and learn from 
+your best customers to figure out what's going
+to resonate most with them, what's going to be 
+most valuable to them. It eliminates a lot of
+the guesswork and gives you and the team a lot 
+more clarity on what to focus on and in terms
+of marketing channels of course, but also 
+in terms of messaging, positioning, product
+marketing as well. So clarity, prioritization, 
+that's really the name of the game for us.
+Customer Journey Lessons from a Trip to Airbnb HQ
+B: Very cool. Now back in the day before you
+kicked off this journey that you've been 
+on for the last few years, you were out of
+college. What kind of job did you first have? I 
+know you made your way towards SaaS. Talk to us
+a little bit about that journey of being an 
+employee and then let's talk about your jump
+into being now an entrepreneur and an advisor.
+G: Yeah. Wow, you want to go way back. So actually
+out of college I joined my father's retail 
+business and he had a large... Still has to this
+day a large retail florist. And I don't know if 
+this is still true, but at the time flowers were,
+I think it was the fourth most purchased 
+thing online behind porn and books and I
+can't remember what number three was, but then 
+it was flowers. So fiercely competitive space,
+a lot of small local players, a lot of big 
+players. And that's really where I cut my teeth
+in terms of marketing and SEO. And what I didn't 
+know at the time was conversion rate optimization
+and content marketing and social media marketing 
+and all of that, that was my the breeding ground
+for everything that I'm doing now. And that was 
+very early days. That was in 2000 to 2006 or 2007.
+And then I joined Twitter, which is a very 
+close to my heart issue right now. And
+everything changed and I shifted from being 
+very focused on fighting the good fight for
+small brick-and-mortar businesses, to having an 
+online presence. I even wrote a column for an
+industry publication on the topic of online 
+marketing back then for local businesses.
+But Twitter did shift a lot of things for me 
+and actually I shifted over into working for
+an agency for a little while, which really 
+opened up the gamut in terms of the types of
+businesses that I was able to work with. But 
+specifically, Twitter exposed me to this tech
+community and startup community locally here. And 
+once I saw that, I couldn't unsee, it was when
+I was exposed to the software service business 
+model, which is all based on recurring revenue.
+And I was like, "Yes, my people", the people 
+who understand post-acquisition marketing,
+the people who understand that marketing has a 
+role to play in revenue growth and isn't a cost
+center and all those things. And I decided from 
+that moment on that SaaS was the business model
+for me and I was never going to go back. And so 
+I was freelancing and consulting at the time for
+a number of tech companies and then eventually I 
+did go in-house and I was in-house at Unbounce for
+five years leading marketing there. Learned 
+a ton, definitely got to experiment with a
+ton of my own limitations. I grew a ton. And 
+that is also where I was exposed to honestly
+the realities of how challenging it is to not 
+only do good marketing, but run an effective
+marketing team and how to make good decisions 
+and prioritize and get that level of clarity.
+I often described the way that I was working 
+there, a chicken with my head cut off. I wanted
+to do all the things. I wanted to make everybody 
+happy, I wanted to underpromise and overdeliver,
+and it was just such a wild environment. And 
+actually while I was there, I was lucky enough
+to be... So Lenny Rachitsky who is quite big in 
+the product management space, I happened to know
+him and I had this light bulb moment when I was 
+visiting the Airbnb headquarters. He was a product
+manager there at the time. And I was visiting him 
+and I went down to the product manager workspace
+at the Airbnb office and I saw their customer 
+journey map taped to the wall. And remember I
+had been operating this chicken with my head cut 
+off, couldn't prioritize, had a team of people
+looking at me saying, "What are we going to do? 
+How are we going to hit our targets this month?"
+And it shifted the way I really thought about 
+marketing as less about lifecycle and MQLs
+and SQLs and building awareness of course, but 
+more about how do we deliver value and measure
+our ability to deliver value at these critical 
+milestones in our customer's relationship with
+us. So it very much shifted the way that I was 
+thinking. We took it very, very seriously and we
+operationalized it internally and I was really, 
+really helpful for us. So that was all what led
+up to what I'm now doing, which is Forget The 
+Funnel working with Claire Suellentrop, my
+business partner as you mentioned. And she and I, 
+we think a lot about B2B SaaS companies and really
+helping them figure out how to identify those 
+customers and by doing some customer research,
+which I recognize is a bit of a dirty word.
+But then how to operationalize that research
+so that we actually turned it into something 
+that's actionable that a team can run with and
+be really effective with. So that's our MO is do 
+away with useless customer research or customer
+research that goes nowhere. And also really help 
+teams to figure out what's important and stop
+throwing spaghetti at the wall-style marketing.
+Reframe Your Thinking About Market Research
+B: I think most people who are in marketing 
+know that they should do market research,
+but it's a little bit intimidating.
+G: Yeah.
+B: We've recently had Rand Fishkin on the podcast 
+who I know is someone you're familiar with,
+obviously. We've got Tracey Wallace coming up soon 
+from Klaviyo who also is big in market research.
+We have ‎Talia Wolf from the past season. So 
+this is something that we've been trying to
+beat the drum for a while.
+G: And the people... Yes.
+B: And we hope that you're able to 
+convince people of this as well.
+G: Yeah.
+B: Why do people freeze
+up when they hear the term market research, 
+even though they know they need to do it?
+G: So one thing that I will clarify and say 
+out of the gate and context-wise in terms
+of how I think about this is that I do tend to 
+prioritize customer research over market research,
+especially for SaaS businesses who are trying to 
+get clarity around who their best customers are.
+There's a couple of reasons for that and I do 
+not think there's anything wrong with doing
+market research or audience research. I'm a 
+huge fan of it, but I generally do believe
+that it should follow customer research and 
+that customer research should inform what
+type of audience research and market research 
+that we do. And actually SparkToro is one of
+the examples of companies that we have worked 
+with where we were able to do customer research
+and continue that into market research and 
+audience research and use, it was very meta,
+but use SparkToro for itself, right?
+I got very “Inception'' in there,
+but the reason that we tend to prioritize customer 
+research is because those are the people who had
+a problem. They were out in the world that had 
+the experience and the problem that you solve,
+they made a decision to choose you. 
+And so what were those reasons,
+right? And they get value from your product 
+as it is today. And also they obviously have a
+willingness to pay because they're paying you.
+So it's this validated higher quality type
+of person to learn from because they are your 
+best customers. Now it's important to segment.
+So anybody who raises concerns or might be a 
+little bit nervous to conduct customer research,
+generally, that's what I referenced first is 
+these are your customers that are very happy.
+They're getting a ton of value from your 
+product today. They'd be really upset if
+you went away. They want you to be successful.
+And so in general, we find that customers are
+very happy to provide us with feedback and 
+participate in the evolution and the growth
+of our businesses because effectively they 
+stand to benefit and they get a ton of value.
+So as long as you're talking to customers who 
+are happy, I mean, look, there's conversations
+to have around win/loss analysis and surveying 
+your customers who have canceled and things like
+that. But that's not what I'm talking about here. 
+What I'm talking about really is: identify who
+your best customers are and talk to them and ask 
+them questions about what's important to them. And
+there's specific types of questions that we can 
+get into if you want to get into that. But really
+at the end of the day, if you're talking to your 
+happy customers, what we find is they're very,
+very willing to jump in and provide feedback and 
+participate in the evolution of your business.
+B: Yeah, I think that's really brilliant. We have 
+a think tank customer advisory board that we meet
+with quarterly. I can echo that sentiment.
+G: Yeah.
+How to Learn from Your Future 
+Audience Before They Buy
+B: And I want to dig into some of those questions 
+that you may want to ask your customers. I want
+to take a quick detour, though, first because 
+there are some people listening who don't have
+customers yet. They are getting ready to launch 
+or they have been around for a little bit,
+but they just don't have more than a handful of 
+people as they've worked with. How can they take
+a playbook from you so that as they get customers 
+in the door, they're able to fuel that research
+a little bit faster than those that do not do?
+G: Yeah. So in that case, what I would say... I
+mean, you're learning from your future customers 
+and yes, going out and identifying where your
+customers are out in the world and trying to 
+provide some value and in return collect some
+feedback, it's absolutely a viable thing to do.
+The one thing that I would prompt everybody
+to think about before they do that though is 
+ultimately what is the problem that your business
+is trying to solve, and get very, very clear on 
+that space. You can't go into a research project,
+especially this type of research project 
+with the solution in mind. It can't be like,
+"Do they care about this thing? Is this thing 
+going to be valuable to them?" It really has
+to be about them and conducting research that's 
+very much focused on what's valuable to them,
+what do they care about, what keeps them up at 
+night, not specifics about your specific offering.
+So that's a helpful lens to go in 
+into it with. And then, yeah, find out
+where they're hanging out. There's lots 
+of tools, the best of which definitely I
+would say is SparkToro for finding out what 
+those watering holes are. And then there's a
+lot you can do on the social listening side of 
+things. But if you are participating in those
+watering holes and providing value and learning 
+as you're listening, it shouldn't be too big of
+a leap to eventually ask for some folks to jump on 
+a short call with you. You just got to be really
+respectful of their time, make sure that you're 
+well prepared, have a structured approach that
+you're taking with your research so that you're 
+not wasting anybody's time. And what we have found
+when people raise, and this sometimes comes up on 
+the customer side too, let alone on the audience
+side, is my response rate is not high enough.
+When to Pay (and Not Pay) for Feedback
+Should I be offering incentives? That comes up a 
+lot. And in general on the customer research side,
+and this is not always the case, but typically we 
+find that incentives aren't necessary for all the
+reasons that I already mentioned. But on the 
+audience side of things, if you are going to
+be asking people to get on a call with you, even 
+a short call, it could be really interesting to
+offer an incentive, but not maybe an incentive 
+like a $50 Amazon gift card or something like
+that because you could be incentivizing behavior 
+that isn't going to be advantageous to you in the
+long run. So we do find that offering to 
+compensate people for their time can work
+quite well and letting them name their price and 
+that gives you a choice on what you want to do.
+Or what we've also found an idea that we love 
+and that we have used a few times ourselves is
+offering to make a donation in that person's 
+name. Now obviously you need a budget to do
+this type of thing, but those are two ways that 
+you could possibly incentivize people to spend a
+little bit of time with you. What we have found 
+on the offering to compensate people for their
+time is that people will feel very respected 
+and they'll be more likely to say yes, but in
+most cases they won't even take you up on that 
+offer. But it can go a very long way in terms of
+being respectful of their time.
+Key Customer Research Questions
+to Getting Useful Answers
+B: Yeah, I love that idea. Love
+to get into some questions now that you have 
+your customer research folks do. And obviously
+when you're working with companies, what might 
+be an off-the-wall question, if there is one
+that you think most people just don't really 
+think about that the customers that they would
+have would be eager to share a response to?
+G: I don't know if I would consider any of
+them off the wall. So the style of research that 
+we do is rooted in the jobs to be done framework,
+the jobs to be done theory or framework, 
+whatever you call it, that's basically
+this idea that people buy your product because 
+they're buying the better version of themselves.
+They're not buying your specific solution, they're 
+buying what your product enables them to do,
+ultimately that better life. So the research 
+that we do is very focused on covering what
+is that job to be done. And that's goes back 
+to what I mentioned before where I said if you
+can do this foundational type of research of 
+what is our best customer's job to be done and
+get that foundational story and understanding 
+about your customers, there's a lot of nuance
+in there that we can dig into for sure.
+But when I was referencing it earlier,
+it's because once you have that foundation, 
+there's a lot of directions you can go from
+there. You can say, "Okay. Now that I understand 
+who our best customers are, I want to dig in
+specifically into the people who are out in the 
+world experiencing this problem." And then you
+can do follow-on research to dig in a little bit 
+further, or you might want to dig in further on
+expansion strategies. So we understand that this 
+is our core, our best customer's job to be done,
+let's find out what they need help with next. And 
+you could do a type of follow-on research to find
+out what your expansion opportunities might be for 
+that customer. So I wouldn't say that there's any
+surprises in the type of research that 
+we do because it is so structured,
+but in general what we're looking for is we want 
+to documentary of their life, what was going on in
+their world that led them to seek out a solution, 
+how were they solving their problem before?
+Because then we understand maybe direct 
+competitors, but more than likely some
+alternative solutions that they're using. So we 
+know what solution we're asking people to fire
+in order to hire our product. So having that 
+understanding of what life was like before,
+understanding what they did after that. So once 
+they made that decision, where did they go? Who
+did they talk to? What were their watering 
+holes? What were their influences in their
+life? And then once they found you, what was it 
+about your solution that convinced them that you
+were going to be able to solve their problem? 
+And then furthermore, we asked questions around
+when you signed up, what was that magic 
+moment for them that they said, "Yes,
+this is going to work for me. I'm going to keep 
+going, I'm going to keep investing in this thing."
+And then questions about now that you have our 
+product or solution in your life, what are you
+able to do now that you weren't able to do before?
+And so we get, as you can... I'm likely picking up
+on this is this documentary of what was going on 
+in their world through their lens. We didn't ask
+anything about our product, we didn't talk about 
+features, we didn't ask any specifics. It's really
+open-ended questions to find out why behind the 
+things that they were doing so that we can figure
+out how to map that to what we do and make it 
+really, really obvious to them so we can pick
+up what they say is valuable and then we can map 
+it to the specific parts of our product or our
+solution that delivers that value. And that's how 
+we come up with really resonant positioning and
+messaging to really be effective when we do go 
+out in the market and market to them or the copy
+that we use on our website or even the early 
+product experience and the product onboarding
+or activation experience, what do we use there?
+All those answers can come out of what were very
+open-ended questions, but once we identify those 
+patterns, we can really see our best customers are
+coming to us because they are in this situation 
+where they're experiencing this very specific
+struggle. They're looking for these very specific 
+things in a solution and then this is what they're
+now able to do that they weren't able to do 
+before. And because we've got that picture,
+we can really lean into how to create that value 
+and communicate that we can create that value.
+Why You Should “Forget the Funnel”
+B: This is
+awesome. What I'm hearing from you and what 
+I love about this is that you're taking what
+could otherwise be a hypothetical pursuit of 
+information, i.e., audience market research on
+the front end of top of funnel, trying to find 
+people that might fit our product or service.
+And you're turning it into those that already 
+show up and you're giving them the opportunity
+to tell you why they showed up and why in 
+those experiences they continue to show up.
+G: That's right.
+B: Talk to us a little bit
+about why this concept that you and Claire are 
+pursuing or are promoting is Forget The Funnel.
+Why is that such an important thing for people who 
+are in SaaS or not in SaaS should be taking on?
+G: Yeah. I mean, you're 100% right. You can 
+think of it like reverse engineering success,
+right? It's like taking that ideal customer and 
+then going, "Okay. Tell me what you did." What
+was that experience and then look back at what 
+good looks like and what good looked like for
+them and at scale across all of your customers 
+to figure out what is that most appropriate and
+truthfully highest converting experience that we 
+could possibly create for them. The Forget The
+Funnel concept is really... I mean, it's rooted 
+in the heart, in its heart in this idea that
+marketing doesn't end at acquisition. People who 
+think about marketing at ending at acquisition
+are really missing out, particularly recurring 
+revenue businesses. If you are in a recurring
+revenue business and you think about growth 
+as acquisition, you are not going to be in
+business for very long because recurring revenue 
+model is about building long-term relationships
+that are valuable to your customers.
+And high LTV means for customers as
+well in addition to you. So really understanding 
+that customer and building a valuable long-term
+relationship with them is the name of the game 
+for software as a service. More and more even
+e-commerce brands and service providers think 
+in this way as well, rightfully, right? It's not
+just about bringing a new customer in the front 
+door. There's tons of stats on how much more an
+existing customer is worth to you than bringing 
+somebody new through the front door. So I don't
+need to talk about that. I'm sure there's lots 
+of studies that have been done that prove that.
+And I think that thinking about customers as 
+being something... Thinking about customers as
+something that is in a funnel is it just doesn't 
+do the relationship justice at all. I mean,
+I don't think I need to convince anybody of that.
+There's a relationship there and it's cyclical
+and it's meaningful. And it's not 
+just about pushing somebody through
+these buckets or these predetermined buckets. 
+That's also my big issue with pirate metrics and
+typical lifecycle metrics that we tend to use 
+is that they're very focused on the business.
+They're not as much focused on the customer.
+So we tend to think about is somebody marketing
+qualified or sales qualified, but that has no 
+bearing on whether or not we're delivering value
+to that individual. So that's another reason why 
+I pick on the funnel a lot. And also for SaaS and
+for digital products... I mean, it's 2023 and we 
+have all the tools in our toolbox now to measure
+value beyond just credit card entered. And we know 
+how people are using our product and we can come
+up with and identify much more meaningful KPIs.
+So this relationship that we have with our
+customers, what are their leaps of faith or 
+milestones in their relationship with us,
+and then furthermore, how do we know that 
+we're delivering value to them at each
+of those milestones. There's lots of ways 
+for us to do that, especially in software.
+Did they hit this critical threshold of product 
+usage? Did they activate in our product? Did they
+get value? Were they delivered value in some 
+way? The way that we measure activation is one
+thing and very important, and I don't take away 
+from that, but it's hard to even think about how
+do we measure activation without thinking about 
+how do we measure what a happy, healthy customer
+looks like? How does a happy, healthy customer 
+use our product day in and day out, whether or
+not they log in or not might be completely 
+irrelevant, right? Because you might have
+the type of product that is more successful when 
+your customers don't log in, then what do you do?
+Does weekly active user mean anything there? Daily 
+active users means nothing in that scenario. So
+we have to identify what a meaningful measure of 
+engagement and value our customer's relationship
+is with us so that we can do a couple things. 
+We can measure our ability to help them move
+forward and get more value. But also if they fall 
+out, we also have a way to trigger re-engagement
+or get in touch with them and make sure that 
+we do what's needed to be done to help them
+get back into that experience.
+I think a lot of companies...
+I don't think. I know a lot of companies, the 
+software companies that we work with, very,
+very few of them are measuring product engagement 
+in a meaningful way. They're relying on just these
+catchall KPIs like sign up credit card entered 
+and daily active or weekly active. And that's
+their measure of success when they could be doing 
+so much more if they were actually making sure
+and being able to measure their ability to help 
+customers reach those value moments. So I mean,
+that's my funnel rant forever and ever.
+Shifting Your North Star Metric
+Towards Customer Value
+B: Well, I love it because
+what you're doing is you're putting a lens on 
+the success people have by using the product
+or the service that you're selling and you're 
+shooting for wins, right? You're not just trying
+to get revenue in the door, you're trying to 
+get people to be successful in their life,
+which hits home for us here at Leadpages.
+One of the things that we took on, I don't
+remember if it predates our work with you or not, 
+but the idea of a north star metric as something
+that's we can focus on to know are our customers 
+using our product in a way that it's both intended
+and that increases value over time.
+G: Yes.
+B: Will lead to referrals, will lead to 
+upgrades, all that kind of stuff that do
+hit the revenue goals.
+G: Yeah.
+B: Can you speak to that idea of north Star 
+metric for a moment? Because I think that
+might be a new term for many of our listeners.
+G: So I find a north star metric at the end of the
+day when it is a tool for teams to help multiple 
+people responsible for a holistic customer
+experience, really be focused on what matters in 
+delivering value, like you said. So in your case,
+I mean, I can't say this for every company, but 
+sometimes north star metrics, and I hope in most
+cases that north star metrics are really rooted 
+in delivering customer value. That's not always
+the case. I don't know what yours is at Leadpages, 
+but I'm going to assume that it's associated with
+your customers getting value, and that's great, 
+but it's a top line singular measure of a success
+in a holistic way. I think what is especially 
+valuable about customer experience mapping and
+identifying leading indicators of success is 
+they all roll up to that north-star metric.
+They're all in service of that north star metric.
+But why I like KPIs at each of the milestones in a
+customer experience is because it really helps the 
+team compartmentalize and think about and go deep
+on delivering really, really great customer 
+experiences. So those team members who are
+responsible for product onboarding, they can very 
+much focus on that specific part of the customer
+journey, not disconnected from the rest of it and 
+how it relates to the rest of it. But it's still
+very much rooted in what are the motivations, 
+objections and anxieties that customer may be
+experiencing or feeling, what are the success 
+gaps? What's happening inside of the product,
+but just as importantly, what's happening outside 
+of the product. What might they be doing in their
+inbox? What solution might they be off-boarding 
+from or needing to fire in order to adopt ours?
+What other stakeholders might be involved? 
+And that customer experience mapping is very,
+very helpful for basically aligning everyone 
+around this holistic customer experience so
+that the individual team members responsible 
+for them can build really effective strategies
+for influencing that portion of the 
+customer experience. And that's true,
+I'm only picking on activation right now, but 
+the same is true on the customer marketing side.
+Those teams who are thinking about, "Okay. Our 
+customers have solved their primary customer job,
+but now how can we help them?" How can we help 
+them be even more successful with our product?
+What are the other toys in the toy box? We can 
+now show them parts of the product that we were
+holding back on a little bit at the beginning 
+because it would've been too much for them.
+What can we now show them our product can do 
+that helps them be even more successful? So it
+just helps compartmentalize, but helps the team be 
+really, really strategic in a meaningful and also
+very measurable way. But again, all at the service 
+of that north star KPI or that north star metric.
+How Can Your Business Solve 
+Their Most Urgent Problem First?
+B: Very cool. And this obviously applies primarily 
+in your work to SaaS companies as most of the
+things that we've been talking about, but 
+there are analogous items over in service
+industries where you want the repeat buyer, you 
+want the repeat customer to come in the door.
+So can you speak to that? What comes to mind 
+for you if someone's a coach or a consultant
+and they do rely on recurring revenue, but from 
+the delivery of a service instead, how do you help
+them to translate what we've been talking about?
+G: Yeah. I mean, I think from that perspective,
+and I put that hat on when I think about our 
+business, of course I don't tend to put it
+on when I think about the client's business, 
+but if I try to put that hat on for a second,
+really the same is all still true. Something 
+that I didn't actually mention earlier that is
+important for all types of businesses, but could 
+be very advantageous within this specific context
+is what is the urgent problem that your clients 
+are trying to solve. And think about ways to lower
+the barrier to help them solve that very specific 
+and urgent problem and then grow from there.
+So don't try to sell them on... I mean, this 
+is true with software, it's just as true with
+software actually, but don't try to out of the 
+gate convince a potential client that you're
+going to be able to solve all of their problems 
+and that you do all of these things and there's
+a big menu of services that you offer and you can 
+do it all for them and therefore they should just
+bring you on because all of this can be solved 
+under one roof. You tend to be much better served,
+and this is true for every business. You're much 
+better served by focusing on what is the urgent
+problem. They have a high willing, especially 
+high willingness to pay for, especially because
+when we're talking about the lift at the 
+front end and making a big decision with,
+when you're talking about services, generally 
+the ask is bigger than in a software situation.
+So helping lower the barrier to entry, build 
+a relationship with them, solve a very urgent
+problem for them very, very quickly, and then 
+let the relationship grow from there and think
+about what's the next most natural thing that a 
+client might need after you've solved that initial
+urgent problem for them. And honestly, 
+the customer experience mapping absolutely
+applies in this case as well because of that.
+Getting Feedback from the Right Customers
+B: So I'm curious, as you hear the customer 
+research the responses to your questions and all
+this stuff, sometimes you hear things that lead 
+you to not want to do what the customer wants.
+How do you know what the customers are telling 
+you is not in best interest of your... In
+service of your company or your brand?
+G: That is such a good question. It's
+so interesting. Honestly, I've never run into 
+that probably because of the type of research
+that we do is so rooted in, what is that? 
+Because it's so rooted in customer jobs, in
+the jobs-to-be-done framework. Because if you are 
+learning from the customers that you want more of,
+if genuinely the voices that you're listening to 
+are the voices of those customers that you want
+to clone, so to speak, they're the customers who, 
+I hate this expression and I probably overuse it,
+but you'd have to pry your product out of their 
+cold dead hands. If those customers are telling
+you something on repeat and you're hearing 
+it over and over and over again, you should
+probably be listening.
+B: Mm-hmm.
+G: Right? Because if they're telling you 
+something that you don't want to hear,
+they're probably not your best customers. 
+So there's a balancing act a little bit
+with research, and I think that one 
+of the objections to research often is
+the faster horses that the erroneously quoted, 
+if we asked customers what they wanted,
+they would've asked for faster horses.
+First of all, that's not true and that
+was not a real quote, but even so there's, just 
+because a customer says it doesn't mean you have
+to do it. Because if you say just like a customer 
+and they haven't been prioritized or they haven't
+been segmented into a group of customers you 
+actually care to listen to, then don't listen
+to them. They don't matter. And if there's people 
+who get value out of your product today that don't
+fall into that bucket of ideal customer, that's 
+fine. If they're getting value from your product,
+that's fine. Let them buy your product and pay 
+for your product and by brute force get value
+out of it in whatever way they want to.
+That does not mean you need to solve for
+them. That does not mean you need to prioritize 
+them. With a lot of companies that we work with,
+we have to make a decision on do you want 
+to go a sales-led route or do you want to
+go a product led route? And it's not a binary, 
+it's not that you can only do one or the other,
+but you do need to put one foot in front of the 
+other and make a decision about which experience
+you want to build first. And so what I often 
+tell founders and the companies that we work
+with is you have a decision to make. You can 
+evolve your product in one way and build your
+team and develop your product in a way that goes 
+one direction or the other. You have the decision.
+I remember this was a very real thing for 
+Rand when he first launched SparkToro,
+he made a very deliberate decision to focus on 
+a very certain customer set, and he was very
+deliberate in ignoring the another. So I think 
+it's a decision that you have to make as long as
+you care about that customer and are hell-bent 
+on solving a very valuable problem for them,
+keep them in your mind's eye, their 
+opinion matters. Forget everybody else.
+Get Ready for Forget the Funnel (the Book)
+B: Awesome. We're coming to the end of our time,
+Gia. This has been so fascinating. I do want 
+to make sure people know about your upcoming
+book that you're currently in pre-sales 
+for. Maybe you're listening to this,
+it's already been launch, but talk to us 
+about the Forget The Funnel book and the
+work that you and Claire are doing with that.
+G: Yeah. So the book really, the idea behind the
+book is we wanted it to be a very digestible 
+and practical. So it's a very step-by-step
+process that we go through. Everything that I'm 
+talking about, there's a process involved in it.
+Identify who your best customers are, figuring 
+out the problem that they're trying to solve,
+operationalize that and measure, find your 
+measures of success and then basically take
+advantage of the opportunities that you are. Then 
+you become aware of all those growth opportunities
+because you understand your customer so much 
+better and you now have a measure of success
+for it. So that process, the customer-led growth 
+process and the framework that we've developed and
+we use with all the companies that we work with is 
+what we cover in the book from beginning to end,
+honestly. But what we try to do as much as 
+possible is make it very, very practical.
+So there's a little bit of theory in there 
+because there needs to be a little bit of theory,
+but for the most part it is like, no, this is 
+what you do first. This is what you do second,
+this is what you do. Third, there's a lot of 
+follow-on materials as well that we provide
+templates, checklists, email templates, 
+survey templates, interview questions,
+things like that. There's a lot of follow-on 
+materials to make it really, really practical.
+But we wanted the book to be readable in just 
+a couple of hours right out of the gate, so
+somebody can get from beginning to end in a very 
+short amount of time and really understand that,
+"Oh, okay, now I'm ready, now I get it, and I'm 
+going to go back and go step by step through the
+process." So that's really the idea of the book.
+B: I love it. And it sounds to me like it's
+essentially a culmination of two decades of 
+work for you and however much time for Claire
+of being in this space and really paying 
+attention to what works, what's not worked,
+and the importance that customers can 
+provide to you if you're willing to ask.
+G: Yup, that's right.
+B: Right. That's cool. Now
+at the time of this recording, we're not really 
+sure what the future of Twitter actually is, but
+how can people find you on Twitter and anywhere 
+else online that you would like to send people to?
+G: Yes. Oh, don't say that. I'm not ready to give 
+up on Twitter. I've been on Twitter since like
+2008, so I might go down with it.
+B: I'm right here with you.
+G: I might go down with that ship, I swear. So 
+on Twitter, I'm @ggiiaa, even though I could
+have gotten my first name at that time, I did not 
+take it. And so yes, very findable on Twitter,
+LinkedIn too, but much more so on Twitter. But 
+forgetthefunnel.com is really the best place
+to go. You can learn about our sprints, our 
+advisory, and of course the book. And we even
+have a pro membership. We didn't talk about that 
+a lot, but we do have a community of practitioners
+and founders and service providers inside of our 
+community that is super fun. And we do office
+hours and all kinds of stuff in there. So that's 
+another thing that people might want to check out.
+What’s in It for Them?
+B: Very cool. And my last question is,
+as an entrepreneur, I'm sure you run into 
+obstacles and things that require a little
+re-shift of any kind of mantra or thought 
+quote that you'd like to turn back to get
+you over whatever that obstacle could be.
+G: Oh, the first thing that comes to mind
+for me is really when in doubt what is in the best 
+interest of your customers? And I feel like I'm a
+broken record with this, but genuinely, especially 
+when you're thinking about marketing and growth,
+we tend to look outwards and we look to the 
+experts and we read books, and we listen to
+podcasts, and we get all this inspiration. And I'm 
+definitely not saying that we shouldn't do that.
+We need to continue to do that in an ongoing 
+way. But as long as we can bring it back to is
+who is our best customer and what is the most 
+effective and applicable and highly resonant
+experience that we can create for them.
+At the end of the day, a lot of answers,
+like the answers to all of our questions. They 
+live inside the heads of our best customers. We
+just got to know to listen and to get it out so 
+that we can then take all that inspiration from
+out in the world in the marketing space and 
+really apply it in a way that's going to be
+effective and stop the guesswork. So when in 
+doubt, what is in it for your customers? What
+is the problem that you're solving for your 
+customers? That tends to answer almost any
+challenge, especially when it comes to growth.
+B: That's awesome. Thank you so much, Gia,
+for being here on the Lead Generation today.
+G: Awesome. Thanks for having me.
+That's a wrap for this
+episode of the Lead Generation Podcast from 
+Leadpages. Take a moment now to subscribe to
+the show so you don't miss a single episode. Then 
+head over to leadpages.com/podcast for show notes,
+bonus resources, and more ways to elevate 
+your business. Thanks for listening!
