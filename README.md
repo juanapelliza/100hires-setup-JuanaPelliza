@@ -17,38 +17,48 @@
 - **Solution**: I used AI assistance to identify the correct menu settings (`View > Appearance > Activity Bar`) and keyboard shortcuts (`Command + Shift + X`) to access the Extensions marketplace.
 
 
-# B2B SaaS Research Project: LinkedIn Organic Content Strategy
+# B2B SaaS Growth & LinkedIn Strategy Repository
 
 ## Project Overview
-This repository contains a high-signal research project focused on **LinkedIn Organic Content Strategy for B2B SaaS**. The goal is to identify and deconstruct the methods used by top industry experts to drive awareness, trust, and revenue through organic social content.
+This repository is a curated intelligence database focused on **SaaS Marketing, Content Distribution, and LinkedIn Growth**. It combines technical automation with strategic research to analyze how the world’s top marketers are winning in the AI-driven landscape of 2026.
 
-## Chosen Topic
-**LinkedIn Organic Content Strategy for B2B SaaS**
-* **Why this topic?** In the current B2B landscape, "Dark Social" and organic presence are becoming more effective than traditional paid ads. Understanding how to build a personal brand that drives SaaS demos is a critical skill for 2026.
+## What was collected?
+For each of the **10 selected experts**, this repository contains:
+- **Raw Intelligence:** Full transcripts of high-value keynote speeches or interviews, extracted using a custom Python automation tool (`extract_transcript.py`).
+- **Strategic Summaries:** Deep-dives into core concepts, key insights, and "Zero-Click" marketing tactics.
+- **LinkedIn Analysis:** Curated real-world posts from April 2026, analyzed for their hooks, distribution strategy, and messaging.
 
-## Research Structure
-The project is organized into three main areas:
-- `/research/sources.md`: A curated list of 10 industry experts with annotations.
-- `/research/youtube-transcripts/`: Deep dives into interviews and masterclasses using API-extracted transcripts.
-- `/research/linkedin-posts/`: Real-world examples of high-performing posts organized by author.
-- `/research/other/`: Technical proofs and additional materials.
-
-## Featured Expert: Justin Welsh
-The first phase of this research focuses on **Justin Welsh**, a pioneer in "Content Operating Systems."
-- **Selection Criteria:** Former VP of Sales at PatientPop (SaaS). His strategies aren't just for "influencers"; they are rooted in B2B sales cycles and scalable systems.
-- **Key Contribution:** The "Creator Funnel" (Awareness > Trust > Relationship > Monetization).
-
-## Technical Implementation
-To ensure high-quality data collection, I utilized:
-- **YouTube API tools:** Extracted full transcripts from long-form interviews to identify strategic pillars.
-- **AI-Assisted Curation (Claude 3.5):** Used to summarize key insights, categorize content with tags, and ensure the information is "scannable" for stakeholders.
-- **Manual Scraping:** Collected specific LinkedIn posts to analyze formatting and hooks.
-
-## Featured Expert: Sam Dunning
-
-
-- **Technical Issue**: Initial API call failed due to specific video restrictions (`VideoUnavailable`).
-- **Solution**: I collaborated with Claude to refactor the Python script, adding a "fallback mode" that allows custom URLs.
-- **Result**: Successfully extracted the transcript for Sam Dunning's video using the new script, fulfilling the API-usage requirement.
 ---
-*This project is part of the 100hires technical assessment.*
+
+## The Expert Hall of Fame (Why these experts?)
+I chose these 10 individuals because they represent the **Full Spectrum of B2B Marketing**. In 2026, you don't just need "traffic"; you need positioning, community, and distribution.
+
+| Expert | Focus Area | Why them? |
+| :--- | :--- | :--- |
+| **April Dunford** | Positioning | The "Final Boss" of strategy. Without her framework, marketing is just noise. |
+| **Dave Gerhardt** | Brand & Copy | He mastered the art of "writing like a human" in a world of AI-stiff content. |
+| **Ross Simmonds** | Distribution | The master of "Create Once, Distribute Everywhere." Essential for AI visibility. |
+| **Justin Welsh** | Content Systems | He provides the blueprint for building a scalable, high-revenue personal brand. |
+| **Gia Laudi** | Customer-Led Growth | She shifts the focus from "the funnel" to what the customer actually wants. |
+| **Chris Walker** | Demand Generation | The pioneer of "Dark Social"—understanding where buyers actually make decisions. |
+| **Amanda Natividad** | Zero-Click Marketing | Leading the charge on how to provide value directly in the feed. |
+| **Peep Laja** | Differentiation | In a sea of "same-ness," Peep teaches how to stand out and be premium. |
+| **Nick Bennett** | Creator-Led Growth | Expert on humanizing SaaS through employee advocacy and personal brands. |
+| **Sam Dunning** | AEO & Search | Bridging the gap between traditional SEO and 2026 Answer Engine Optimization. |
+
+---
+
+## Repository Structure
+- `RESEARCH/`: The core database.
+  - `Youtube-transcripts/`: Raw and processed data from video interviews.
+  - `Linkedin-Posts/`: Analysis of live content strategies.
+- `extract_transcript.py`: Python tool used to fetch data from YouTube's API.
+- `Sources.md`: A collection of all references used for this research.
+
+---
+
+## ⚡ Technical Note
+This project was built using **Python 3** for data extraction and **Markdown** for strategic documentation. It demonstrates the intersection of **Data Engineering** and **High-Level Marketing Strategy**.
+
+---
+*Created by Juana Pelliza - This project is part of the 100hires technical assessment.*
