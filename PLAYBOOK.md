@@ -40,6 +40,14 @@ I agree with **Sam Dunning’s Posture (Direct CTAs)**. In a world saturated wit
 ## 4. What I Rejected and Why
 *Ideas that sounded good but didn't make the cut.*
 
+#### Idea 1: The "Death" of Junior Roles
+* **Source:** [Peep Laja, LinkedIn Post (16.04.2026)](https://www.linkedin.com/posts/peeplaja_the-junior-marketer-role-is-dead-we-surveyed-activity-7446895631958368257-7N0j)
+* **Reason for Rejection:** I disagree with the notion that junior roles are dead; rather, they are undergoing a profound transformation. While Peep is right that strategic positioning is now mandatory, he overlooks the growing limitations of AI. In the near future, the flaws of AI will become more apparent, and the demand for human oversight will increase. The "new" junior role will center on working alongside AI to navigate its limitations and, most importantly, providing a human perspective. This includes "human errors" and nuances that AI cannot replicate, which add authenticity to a brand.
+
+#### Idea 2: Extreme Content Volume and "Repurposing Everything"
+* **Source:** [Justin Welsh, LinkedIn Post (16.04.2026)](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO)
+* **Reason for Rejection:** I rejected the idea that a marketer should aim to capture 100% of an idea's value through constant repurposing and high-volume posting. While efficient, this approach often leads to "content fatigue" and "noise." In my playbook, I prioritize quality over scale. I believe that over-saturating a feed with the same idea in different formats can actually diminish trust, making a creator or brand look more like a "content machine" than a genuine authority.
+
 ## 5. My Original Idea
 *A unique tactic not mentioned by the experts.*
 
