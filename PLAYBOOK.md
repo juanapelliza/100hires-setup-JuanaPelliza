@@ -82,7 +82,20 @@ In an era of content saturation, authenticity is the highest currency. This idea
 - **Noise Reduction:** It focuses on the quality of thought rather than just the frequency of posting. It turns a single post into a mini-case study of professional judgment.
 
 ## 6. Weaknesses of this Playbook
-*A reality check on what might fail.*
+
+#### Weakness 1: The Attribution Gap (ROI Proving)
+The heavy focus on **Dark Social** and **Zero-Click Marketing** creates a significant challenge when reporting to traditional board members or stakeholders. Since these interactions happen in untrackable places (podcasts, DMs, Slack groups), they do not appear in standard attribution software like Google Analytics. Explaining to a traditional board that "brand authority on LinkedIn" is driving revenue is much harder than showing a direct cost-per-click from a Google Ad. This playbook requires a leadership team that trusts long-term brand building over short-term "vanity" tracking.
+
+#### Weakness 2: High Resource Intensity for Subject Matter Experts (SMEs)
+This playbook cannot be fully outsourced to a low-level agency or a bot. Because it relies on **"Human Authority"** (Dave Gerhardt) and **"Anti-AI Audits,"** it requires significant time and emotional energy from the company’s founders or senior experts. If the SMEs are too busy to engage or lack the "Voice" to write authentically, the strategy collapses. It is not a "set it and forget it" system; it is a "high-touch" strategic commitment.
 
 ## 7. Who I would NOT recommend following and why
-*The expert(s) that didn't convince me and the reasons why.*
+
+**Expert: Justin Welsh**
+
+While Justin Welsh is undeniably a master of the "Content OS" and efficiency, I would **not** recommend his specific framework for a B2B SaaS brand looking to build deep, human authority in 2026.
+
+**Reasons for this choice:**
+- **The "Content Machine" Risk:** Justin’s strategy is built on extreme volume and constant repurposing. While this works for a solopreneur selling digital products, it can be dangerous for a B2B SaaS. In 2026, over-posting can lead to "content fatigue," making a professional brand look like a "noise generator" rather than a strategic partner.
+- **Quantity vs. Genuineness:** His systems are designed for scale and efficiency, which often results in a "templated" feel. This directly contradicts the core pillars of this playbook—Simplicity and the "Anti-AI Audit." A SaaS brand needs to protect its reputation by ensuring every post feels like a genuine human conversation (Dave Gerhardt style) rather than a systematized output.
+- **Misalignment with High-Ticket Sales:** Justin’s high-volume approach is great for wide-top-of-funnel reach. However, for a SaaS product that requires high-trust and high-investment, the "factory" feel of his content can erode the "premium" positioning established by experts like April Dunford or Peep Laja.
